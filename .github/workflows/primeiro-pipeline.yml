@@ -25,6 +25,7 @@ jobs:
 
   trabalho2:
     name: fluxo 2
+    needs: trabalho1
     runs-on: ubuntu-latest
 # agora irei programar os passos do script
     steps:
