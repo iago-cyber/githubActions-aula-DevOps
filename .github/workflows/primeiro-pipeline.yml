@@ -17,11 +17,11 @@ jobs:
 # agora irei programar os passos do script
     steps:
       - name: passo 1
-        run: echo "Executando meu primeiro passo!
+        run: echo "Executando meu primeiro passo!"
       - name: passo 2
-        run: echo "Executando meu segundo passo!
+        run: echo "Executando meu segundo passo!"
       - name: passo 3
-        run: echo "Executando meu terceiro passo!
+        run: echo "Executando meu terceiro passo!"
 
   trabalho2:
     name: fluxo 2
@@ -29,11 +29,11 @@ jobs:
 # agora irei programar os passos do script
     steps:
       - name: passo 4
-        run: echo "Executando meu quarto passo!
+        run: echo "Executando meu quarto passo!"
       - name: passo 5
-        run: echo "Executando meu quinto passo!
+        run: echo "Executando meu quinto passo!"
       - name: passo 6
-        run: echo "Executando meu sexto passo!
+        run: echo "Executando meu sexto passo!"
 
   trabalho3:
     name: fluxo 3
@@ -41,8 +41,8 @@ jobs:
 # agora irei programar os passos do script
     steps:
       - name: passo 7
-        run: echo "Executando meu setimo passo!
+        run: echo "Executando meu setimo passo!"
       - name: passo 8
-        run: echo "Executando meu oitavo passo!
+        run: echo "Executando meu oitavo passo!"
       - name: passo 9
-        run: echo "Executando meu nono passo!
+        run: echo "Executando meu nono passo!"
